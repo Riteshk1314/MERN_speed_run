@@ -10,11 +10,9 @@ function App() {
     setCounter(counter+1)
   }
   const removevalue=()=>{
-    
     setCounter(counter-1)
   }
 
-  
   return (
     <>
     <h1>learning state in react {}</h1>
